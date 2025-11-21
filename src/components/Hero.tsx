@@ -17,7 +17,7 @@ const Hero = () => {
           <div className="space-y-6 animate-slide-in-left">
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight">
               Hi, I'm{" "}
-              <span className="text-gradient">Your Name</span>
+              <span className="text-gradient">Kirtan Kakadiya</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground">
               A passionate developer on an academic and technical journey, crafting digital experiences that make a difference.
