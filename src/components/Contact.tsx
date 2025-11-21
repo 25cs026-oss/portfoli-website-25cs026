@@ -27,7 +27,7 @@ const Contact = () => {
                 asChild
               >
                 <a
-                  href="https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+                  href="https://forms.gle/fzW3DoqGGMSmXcPm9"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -41,9 +41,9 @@ const Contact = () => {
                   className="w-full"
                   asChild
                 >
-                  <a href="mailto:your.email@example.com">
+                  <a href="mailto:25cs026@caharusat.edu.in">
                     <Mail className="mr-2" size={18} />
-                    your.email@example.com
+                    25cs026@charusat.edu.in
                   </a>
                 </Button>
               </div>
@@ -64,7 +64,7 @@ const Contact = () => {
                 asChild
               >
                 <a
-                  href="https://www.linkedin.com/in/yourprofile"
+                  href="https://www.linkedin.com/in/kirtan-kakadiya-417480378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-start gap-3"
@@ -85,7 +85,7 @@ const Contact = () => {
                 asChild
               >
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/25cs026-oss"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-start gap-3"
@@ -106,14 +106,14 @@ const Contact = () => {
                 asChild
               >
                 <a
-                  href="mailto:your.email@example.com"
+                  href="mailto:25cs026@charusat.edu.in"
                   className="flex items-start gap-3"
                 >
                   <Mail className="text-primary mt-1" size={24} />
                   <div>
                     <div className="font-semibold">Email</div>
                     <div className="text-sm text-muted-foreground">
-                      your.email@example.com
+                      25cs026@charusat.edu.in
                     </div>
                   </div>
                 </a>

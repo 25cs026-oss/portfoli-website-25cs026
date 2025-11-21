@@ -5,25 +5,25 @@ import { Button } from "@/components/ui/button";
 const Certificates = () => {
   const certificates = [
     {
-      title: "Google IT Support Professional Certificate",
-      issuer: "Google via Coursera",
-      date: "2024",
-      credentialUrl: "https://www.coursera.org/account/accomplishments/certificate/EXAMPLE123",
-      description: "Comprehensive IT support training covering troubleshooting, customer service, networking, operating systems, system administration, and security.",
+      title: "Communicate effectively on GitHub using Markdown",
+      issuer: "GitHub via Microsoft Learn",
+      date: "2025",
+      credentialUrl: "https://learn.microsoft.com/api/achievements/share/en-us/25CS026KIRTANKAKADIYA-8235/WVZA3YSN?sharingId=9E71FAF601A7C5E2",
+      description: "Learn to use Markdown to communicate with brevity, clarity, and expression.",
     },
     {
-      title: "Google Data Analytics Professional Certificate",
-      issuer: "Google via Coursera",
-      date: "2024",
-      credentialUrl: "https://www.coursera.org/account/accomplishments/certificate/EXAMPLE456",
-      description: "Advanced data analytics training including data cleaning, analysis, visualization, and SQL for data-driven decision making.",
+      title: "Manage your work with GitHub Projects",
+      issuer: "GitHub via Microsoft Learn",
+      date: "2025",
+      credentialUrl: "https://learn.microsoft.com/api/achievements/share/en-us/25CS026KIRTANKAKADIYA-8235/WVZAU8QN?sharingId=9E71FAF601A7C5E2",
+      description: "Learn to use GitHub Projects to create issues, break them into tasks, track relationships, add custom fields, and have conversations.",
     },
     {
-      title: "Google Workspace Administrator",
-      issuer: "Google Cloud",
-      date: "2023",
-      credentialUrl: "https://www.credential.net/example",
-      description: "Certification in managing Google Workspace services, user management, security, and collaboration tools for organizations.",
+      title: "Code with GitHub Codespaces",
+      issuer: "GitHub via Microsoft Learn",
+      date: "2025",
+      credentialUrl: "https://learn.microsoft.com/api/achievements/share/en-us/25CS026KIRTANKAKADIYA-8235/WVZAUSFN?sharingId=9E71FAF601A7C5E2",
+      description: "Learn to use GitHub Projects to create issues, break them into tasks, track relationships, add custom fields, and have conversations.",
     },
   ];
 
