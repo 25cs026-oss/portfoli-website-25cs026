@@ -5,29 +5,21 @@ import { Button } from "@/components/ui/button";
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "A full-stack e-commerce application with payment integration, user authentication, and product management. Built with React, Node.js, and PostgreSQL.",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&h=600&fit=crop",
-      technologies: ["React", "Node.js", "PostgreSQL", "Stripe"],
-      githubUrl: "https://github.com/yourusername/ecommerce-platform",
-      liveUrl: "https://yourusername.github.io/ecommerce-platform",
+      title: "Chess Board GUI using C",
+      description: "A C program that creates a graphical chessboard interface using basic graphics to visually represent an 8x8 chess grid with alternating colored squares, demonstrating fundamental GUI programming concepts in C on VS Code.",
+      image: "https://github.com/25cs026-oss/portfoli-website-25cs026/blob/main/IMG-20251119-WA0001.jpg",
+      technologies: ["C", "VS-Coder"],
+      githubUrl: "https://github.com/25cs026-oss/C---Project-",
+      liveUrl: "------------------------------",
     },
     {
-      title: "Task Management App",
-      description: "A collaborative task management tool with real-time updates, team collaboration features, and customizable workflows. Features drag-and-drop interface.",
-      image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=600&fit=crop",
-      technologies: ["React", "Firebase", "Tailwind CSS"],
-      githubUrl: "https://github.com/yourusername/task-manager",
-      liveUrl: "https://yourusername.github.io/task-manager",
-    },
-    {
-      title: "Weather Dashboard",
-      description: "A beautiful weather application with location-based forecasts, interactive maps, and weather alerts. Integrates with multiple weather APIs for accuracy.",
-      image: "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=800&h=600&fit=crop",
-      technologies: ["TypeScript", "React", "OpenWeather API"],
-      githubUrl: "https://github.com/yourusername/weather-dashboard",
-      liveUrl: "https://yourusername.github.io/weather-dashboard",
-    },
+      title: "Fire Asisstant System using ESP32",
+      description: "A smart fire assistant system using ESP32, DHT11, MQ-2, and flame sensor to detect smoke, temperature, and flames for real-time safety monitoring and alerts.",
+      image: "https://github.com/25cs026-oss/portfoli-website-25cs026/blob/main/IMG-20251121-WA0015.jpg",
+      technologies: ["ESP32", "DHT11", "MQ-2","Flame Sensor"],
+      githubUrl: "---Coming Soooonnnnn.........-----",
+      liveUrl: "--------------------------------------",
+    }
   ];
 
   return (
