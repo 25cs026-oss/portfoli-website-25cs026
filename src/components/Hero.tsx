@@ -1,5 +1,6 @@
 import { ArrowDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import profileImage from "@/assets/kirtan-profile.jpg";
 
 const Hero = () => {
   const scrollToProjects = () => {
@@ -49,8 +50,8 @@ const Hero = () => {
               <div className="absolute inset-0 gradient-hero rounded-full blur-3xl opacity-30 animate-pulse"></div>
               <div className="relative w-80 h-80 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-primary/20 card-shadow">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=800&fit=crop"
-                  alt="Professional portrait"
+                  src={profileImage}
+                  alt="Kirtan Kakadiya - Professional portrait"
                   className="w-full h-full object-cover"
                 />
               </div>
