@@ -9,7 +9,7 @@ const Projects = () => {
     {
       title: "Chess Board GUI using C",
       description: "A C program that creates a graphical chessboard interface using basic graphics to visually represent an 8x8 chess grid with alternating colored squares, demonstrating fundamental GUI programming concepts in C on VS Code.",
-      image: 'image1',
+      image:image1,
       technologies: ["C", "VS-Coder"],
       githubUrl: "https://github.com/25cs026-oss/C---Project-",
       liveUrl: "------------------------------",
@@ -17,7 +17,7 @@ const Projects = () => {
     {
       title: "Fire Asisstant System using ESP32",
       description: "A smart fire assistant system using ESP32, DHT11, MQ-2, and flame sensor to detect smoke, temperature, and flames for real-time safety monitoring and alerts.",
-      image: 'image2',
+      image:image2,
       technologies: ["ESP32", "DHT11", "MQ-2","Flame Sensor"],
       githubUrl: "---Coming Soooonnnnn.........-----",
       liveUrl: "--------------------------------------",
