@@ -20,7 +20,7 @@ const Footer = () => {
             asChild
           >
             <a
-              href="https://github.com/yourusername/portfolio"
+              href="https://github.com/25cs026-oss/portfoli-website-25cs026"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2"
