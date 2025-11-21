@@ -7,7 +7,7 @@ const Projects = () => {
     {
       title: "Chess Board GUI using C",
       description: "A C program that creates a graphical chessboard interface using basic graphics to visually represent an 8x8 chess grid with alternating colored squares, demonstrating fundamental GUI programming concepts in C on VS Code.",
-      image: "https://github.com/25cs026-oss/portfoli-website-25cs026/blob/8180ee249984304ff7d305c85965b3af45026215/IMG-20251119-WA0001.jpg",
+      image: "/IMG-20251119-WA0001.jpg",
       technologies: ["C", "VS-Coder"],
       githubUrl: "https://github.com/25cs026-oss/C---Project-",
       liveUrl: "------------------------------",
