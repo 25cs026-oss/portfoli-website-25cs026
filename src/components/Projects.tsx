@@ -1,8 +1,8 @@
 import { ExternalLink, Github } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import Image1 from "@/assets/IMG-20251119-WA0001.jpg";
-import Image2 from "@/assets/IMG-20251119-WA0015.jpg";
+import Image1 from "@/IMG-20251119-WA0001.jpg";
+import Image2 from "@/IMG-20251119-WA0015.jpg";
 
 const Projects = () => {
   const projects = [
