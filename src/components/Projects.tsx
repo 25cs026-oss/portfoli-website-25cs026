@@ -15,7 +15,7 @@ const Projects = () => {
     {
       title: "Fire Asisstant System using ESP32",
       description: "A smart fire assistant system using ESP32, DHT11, MQ-2, and flame sensor to detect smoke, temperature, and flames for real-time safety monitoring and alerts.",
-      image: "https://raw.githubusercontent.com/25cs026-oss/portfoli-website-25cs026/refs/heads/main/IMG-20251121-WA0015.jpg?token=GHSAT0AAAAAADPBUMOILAJ4AIQ75332BNXI2JATSLQ"
+      image: "https://raw.githubusercontent.com/25cs026-oss/portfoli-website-25cs026/refs/heads/main/IMG-20251121-WA0015.jpg?token=GHSAT0AAAAAADPBUMOILAJ4AIQ75332BNXI2JATSLQ",
       technologies: ["ESP32", "DHT11", "MQ-2","Flame Sensor"],
       githubUrl: "---Coming Soooonnnnn.........-----",
       liveUrl: "--------------------------------------",
